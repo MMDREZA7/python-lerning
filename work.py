@@ -33,28 +33,3 @@ print()
 
 input('plaese press enter')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
