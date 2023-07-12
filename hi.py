@@ -1,12 +1,13 @@
 numbers_list = []
 
 while True:
-    number = int(input('Enter number (>0): '))
-
-    if number < 0:
-        break
+    number = input('Enter number (number>0): ')
     
-    numbers_list.append(number)
+    
+    if number == '':
+        break
+    numbers_list.append(int(number))
+    
 
 # print(sum(numbers_list))
 
