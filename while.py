@@ -17,8 +17,6 @@ while name != ('mmdreza') and name != ('habib') :
     print('This name is not definde....')
     name = input('plesea try again: ')
 
-  
-    
 
 while n > 0:
     print(n)
